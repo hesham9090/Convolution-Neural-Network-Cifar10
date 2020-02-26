@@ -1,4 +1,4 @@
-# Convolution Neural Network Implementation
+# Convolutional Neural Networks Cifar10 Classification.
 
 
 ## Task 1
